@@ -1,2 +1,3 @@
 # MGS602-Demo-Al
-A demo of Github
+Demo of GitHub
+hi, I'm Uncle Al, the kiddie's pal!
