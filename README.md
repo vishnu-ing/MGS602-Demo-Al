@@ -1,2 +1,2 @@
-# OTT
-A simple implementation of OTT application
+# MGS602-Demo-Al
+A demo of Github
